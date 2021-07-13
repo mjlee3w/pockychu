@@ -8,5 +8,5 @@ Having been an officer for a student org in my university in the midst of the pa
 Python
 
 # API
-Discord
+Discord <br />
 Giphy
